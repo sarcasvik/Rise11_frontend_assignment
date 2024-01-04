@@ -1,10 +1,18 @@
 # Introduction
-This is the project created for the hiring for the role of Frontend Developer in react.js. The assignment was to create a Dashboard using the given design and react.js. We were allowed to use various dependencies and libraries for succesful completion of this project. I have used vite as the framework ,React.js as the library and TailwindCSS for styling . Along with these i also have used various library packages of react.js. 
+I created this project to showcase my skills in React and meet the requirements for the Frontend Developer role. The goal was to build a responsive dashboard using React and additional libraries, following the provided design.
 
-## Working Screenshots
-![image](https://github.com/namay10/Rise11_assignment/assets/88048179/91b53fe6-5b82-438b-afe1-9b01c4d1437c)
-![image](https://github.com/namay10/Rise11_assignment/assets/88048179/c5c654bd-e4b4-4296-9628-40c94f550e0d)
-![image](https://github.com/namay10/Rise11_assignment/assets/88048179/3f85f78b-e128-42f4-9273-25a0b534a900)
+To accomplish this, I utilized:
+
+Vite - For quick project setup and development
+React - As the primary UI library to build components
+Tailwind CSS - For utility-first styling and rapid development
+React Chart.js - To display dynamic charts
+React Router - For routing between pages
+React Icons - For easily adding icons to the UI
+I structured the project using features and pages as the main organization. This allows for encapsulated code and easier extensibility. The focus was on building reusable components, handling responsive design, and integrating with mock API data.
+
+Overall this project demonstrates my skills in React, component architecture, responsive design, and integrating third-party libraries. I enjoyed working on it and look forward to discussing further.
+
 ## Installation
 
 To run the React Currency Converter on your local machine, follow these steps:
@@ -12,13 +20,13 @@ To run the React Currency Converter on your local machine, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```bash
-  git clone https://github.com/namay10/Rise11_assignment.git
+  git clone https://github.com/sarcasvik/Rise11_frontend_assignment
 ```
     
  Navigate to the project directory:
 
 ```bash
-  cd Rise11_assignmentgit
+  cd Rise11_frontend_assignment
 ```
  Install the required dependencies:
 ```bash
